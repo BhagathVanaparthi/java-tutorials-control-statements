@@ -1,0 +1,2 @@
+1) Break:
+   A break statement in Java is used to break a loop or switch statement. When a break statement is executed inside a loop or switch statement, the loop is immediately terminated at a specified condition and the program control continues the next statement immediately following the loop.
